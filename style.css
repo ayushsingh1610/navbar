@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+    background-color: black;
+}
+#box {
+    color : white;
+    background-color: blue;
+}
+#Navbar {
+    width: 1440px;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+input {
+    color: black;
+    background-color: white;
+}
+a {
+    margin-right: 200px;
+}
+#logo {
+    color: #f08804;
+}
+button {
+    text-decoration-color: none;
+    color: white;
+    background-color: #f08804;
+    size: auto;
+}
